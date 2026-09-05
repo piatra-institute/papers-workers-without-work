@@ -1,0 +1,248 @@
+schema: 1
+coverage: reviewed
+reviewed_manuscript_sha256: 1f7169ce98abb400e5ce45143c29ba1756e6192bf35ef22530e35812c182e8df
+claims:
+  - id: skinner1960
+    kind: source
+    passage: "Thirty pigeons were retained to test how long their trained responses would last."
+    evidence:
+      citation_id: "skinner1960"
+      locator: "pp. 34 and 36"
+      verified: true
+      verification_note: "Complete 1960 article inspected. Page 34 identifies the retained birds; page 36 reports the six-year retention test."
+      url: "https://www.appstate.edu/~steelekm/classes/psy3214/Documents/Skinner1960.pdf"
+  - id: beazley1966
+    kind: source
+    passage: "Ownership attached the birds and their product to a landlord"
+    evidence:
+      citation_id: "beazley1966"
+      locator: "p. 107, manure economy"
+      verified: true
+      verification_note: "Original article text inspected: tower and birds belonged to the landlord, who paid tax on manure sold."
+      url: "https://gwern.net/doc/technology/1966-beazley.pdf"
+  - id: reuter1850
+    kind: source
+    passage: "The initial term was three months, unless Reuter's enterprise ended sooner"
+    evidence:
+      citation_id: "reuter1850"
+      locator: "contract clauses 1–3 and 7–10; inventory 4.2.160"
+      verified: true
+      verification_note: "Museum transcription inspected: duties, transport costs, lost birds and initial term. Replaces the inaccessible Read book as support for this example. Entire museum transcription reread for the later editorial revision; absence of a retirement clause is not evidence of abandonment."
+      url: "https://onlinesammlung.museumsstiftung.de/detail/collection/8b1cf3a8-5916-4fc7-87b4-de47ccde8ed6"
+  - id: edgerton2007
+    kind: source
+    passage: "technologies that persist, disappear and reappear on different schedules"
+    evidence:
+      citation_id: "edgerton2007"
+      locator: "Introduction, use-centred history"
+      verified: true
+      verification_note: "Introduction inspected in the publisher's 2019 reissue preview, PDF pp. 19–21. Edition pagination differs; the manuscript cites the 2007 book without a page claim."
+      url: "https://profilebooks.com/wp-content/uploads/wpallimport/files/PDFs/9781788163088_preview.pdf"
+  - id: jerolmack2009
+    kind: source
+    passage: "birds organized neighbourhood knowledge, competitive status and social ties across ethnic divisions"
+    evidence:
+      citation_id: "jerolmack2009"
+      locator: "article abstract"
+      verified: true
+      verification_note: "Publisher abstract directly describes neighbourhood experience, transmission across ethnic groups and status based on bird performance. No detailed fieldwork episode is claimed."
+      url: "https://journals.sagepub.com/doi/10.1177/1466138109346997"
+  - id: barua2021
+    kind: source
+    passage: "Barua describes this repurposing as part of the relationship between infrastructure and non-human life"
+    evidence:
+      citation_id: "barua2021"
+      locator: "sections on non-human life as infrastructure and infrastructure as medium of life"
+      verified: true
+      verification_note: "Publisher text inspected for the two relations. The pigeon decommissioning argument is this paper's application, not a conclusion attributed to Barua."
+      url: "https://journals.sagepub.com/doi/10.1177/0309132521991220"
+  - id: coulter2016
+    kind: source
+    passage: "Coulter's account of animal work places the worker's well-being within the discussion"
+    evidence:
+      citation_id: "coulter2016"
+      locator: "publisher synopsis and contents"
+      verified: true
+      verification_note: "Publisher account explicitly joins animal work and well-being. The post-work question is posed by this paper; no specific retirement rule is attributed to the unread chapter text in this revision."
+      url: "https://link.springer.com/book/10.1057/9781137558800"
+  - id: stringham2012
+    kind: source
+    passage: "Genetic work connects feral populations with domestic breeds, including racing pigeons"
+    evidence:
+      citation_id: "stringham2012"
+      locator: "abstract and study scope"
+      verified: true
+      verification_note: "Primary article abstract and study scope checked. Its sampled populations cannot reconstruct the founders of an arbitrary city's flock."
+      url: "https://shapiro.biology.utah.edu/Shapiro_Lab/pdf_pubs/Current%20Biology%202012%20Stringham.pdf"
+  - id: nal-pigeons
+    kind: source
+    passage: "The sale took place on 23 March"
+    evidence:
+      citation_id: "nal-pigeons"
+      locator: "section on closure of the Army Pigeon Service in 1957"
+      verified: true
+      verification_note: "USDA National Agricultural Library account checked: surviving veterans transferred and approximately 1,000 other birds sold on 23 March 1957. This is an institutional historical synthesis, not a welfare follow-up."
+      url: "https://www.nal.usda.gov/collections/stories/human-relationship-pigeons-forgotten-war-heroes"
+  - id: mcshane2007
+    kind: source
+    passage: "a St. Louis firm's 1896 claim of a $24 profit per carcass"
+    evidence:
+      citation_id: "mcshane2007"
+      locator: "pp. 25–28, especially p. 28"
+      verified: true
+      verification_note: "Book text inspected for the resale/disposal chain and the firm's claimed profit. Corrected the old locator and avoided treating profit as a universal carcass price."
+      url: "https://www.scribd.com/document/244941209/Animals-History-Culture-Clay-McShane-Joel-Tarr-Harriet-Ritvo-The-Horse-in-the-City-Living-Machines-in-the-Nineteenth-Century-Johns-Hopkins-Univ"
+  - id: congress2000-dogs
+    kind: source
+    passage: "the law excluded federal liability for the adopted dog's later veterinary expenses"
+    evidence:
+      citation_id: "congress2000-dogs"
+      locator: "section 1, enacted 10 USC 2582(a), (c), (e)"
+      verified: true
+      verification_note: "Official original enactment inspected. Adoption authorization and suitability conditions are explicit; this is not a statement of all current law."
+      url: "https://www.congress.gov/106/plaws/publ446/PLAW-106publ446.pdf"
+  - id: congress2000-chimps
+    kind: source
+    passage: "Its original provisions prohibited discharge from the system while permitting limited research and euthanasia in the animal's interests"
+    evidence:
+      citation_id: "congress2000-chimps"
+      locator: "section 2, enacted PHS Act 481C(a), (d)(2)(I)–(J)"
+      verified: true
+      verification_note: "Official original enactment inspected for lifetime care, restrictions on research/discharge and euthanasia. No claim that the 2000 text is the entire current legal regime."
+      url: "https://www.congress.gov/106/plaws/publ551/PLAW-106publ551.pdf"
+  - id: congress1971
+    kind: source
+    passage: "The statute also provided for management, including removal and, under specified conditions, destruction"
+    evidence:
+      citation_id: "congress1971"
+      locator: "sections 1–3 of the 1971 enactment"
+      verified: true
+      verification_note: "Statutes at Large facsimile inspected. Protection of an unowned population coexisted with management and destruction provisions."
+      url: "https://www.govinfo.gov/content/pkg/STATUTE-85/pdf/STATUTE-85-Pg649.pdf"
+  - id: williams1994
+    kind: source
+    passage: "relocated pigeons may return from more than 50 miles away or create a problem elsewhere"
+    evidence:
+      citation_id: "williams1994"
+      locator: "p. E-95, paragraph beginning Releasing pigeons"
+      verified: true
+      verification_note: "Full chapter obtained from the county mirror; the release warning is on E-95, not E-92–E-93. Historical control practice only, not current treatment advice."
+      url: "https://www.sandiegocounty.gov/content/dam/sdc/common_components/images/awm/Docs/ipm_pigeon.pdf"
+  - id: jerolmack2008
+    kind: source
+    passage: "a shift from complaints about birds in particular locations to a broader category of the pigeon as a troublesome urban animal"
+    evidence:
+      citation_id: "jerolmack2008"
+      locator: "historical analysis, pp. 78–85"
+      verified: true
+      verification_note: "Primary article's historical discussion inspected. It documents changes in reporting and classification; it does not establish institutional withdrawal as their sole cause."
+      url: "https://r.jordan.im/download/politics/jerolmack2008.pdf"
+  - id: nyc-pigeons
+    kind: source
+    passage: "identifies particular concern for people with compromised immune systems"
+    evidence:
+      citation_id: "nyc-pigeons"
+      locator: "health guidance, cleaning droppings and people at risk"
+      verified: true
+      verification_note: "Official guidance inspected on 5 September 2026. Ordinary contact and dusty cleanup are distinguished; the paper does not deny infection risk."
+      url: "https://www.nyc.gov/site/doh/health/health-topics/pigeon.page"
+  - id: pimentel2000
+    kind: source
+    passage: "an estimated control cost of $9 per bird per year"
+    evidence:
+      citation_id: "pimentel2000"
+      locator: "p. 56, pigeon paragraph"
+      verified: true
+      verification_note: "Primary article inspected: assumed density and per-bird control cost underpin the $1.1 billion extrapolation. The objection to using prevention costs as damage is the paper's methodological interpretation."
+      url: "https://abinvasives.ca/wp-content/uploads/2022/10/Pimentel-et-al-2000.-Environmental-and-economic-costs-of-nonindigenous-speceis-in-the-US.pdf"
+  - id: senar2017
+    kind: source
+    passage: "an intervention combining public education with culling was associated with a 40% fall in pigeon density in two districts between February and June"
+    evidence:
+      citation_id: "senar2017"
+      locator: "methods, results and discussion, pp. 314–317"
+      verified: true
+      verification_note: "Full primary article inspected: combined intervention, comparison area, within-district associations and possible migration. Published online 2016, print issue 2017; study period 2009."
+      url: "https://desinsectador.com/wp-content/uploads/2020/07/senar_montalvo_pest_management_science_2016.pdf"
+  - id: star1999
+    kind: source
+    passage: "what enables one activity may obstruct another"
+    evidence:
+      citation_id: "star1999"
+      locator: "p. 380, Defining infrastructure"
+      verified: true
+      verification_note: "Downloaded and visually inspected printed pp. 379–380. The relational account and wheelchair/stair example support the framework; its extension to pigeons is interpretive."
+      url: "https://www.imtfi.uci.edu/files/articles/Star.pdf"
+  - id: philo2000
+    kind: source
+    passage: "places allotted to animals and places animals make for themselves"
+    evidence:
+      citation_id: "philo2000"
+      locator: "introduction, pp. 5–13, especially pp. 12–13"
+      verified: true
+      verification_note: "Publisher-distributed preview inspected for proper places and other spaces. The manuscript does not equate all occupation with conscious political resistance."
+      url: "https://api.pageplace.de/preview/DT0400.9781134640126_A24530645/preview-9781134640126_A24530645.pdf"
+  - id: donaldson2011
+    kind: source
+    passage: "residents owed protections, though not full members of a shared citizenship"
+    evidence:
+      citation_id: "donaldson2011"
+      locator: "chapter 7; author's book synopsis"
+      verified: true
+      verification_note: "Author's synopsis checked for liminal denizenship, residency and basic protections. Removed detailed regulation claims not rechecked in chapter text; the policy application here is explicitly normative. Author synopsis reread after the membership-focused revision; the paper's limited definition of membership is its own proposal."
+      url: "https://willkymlicka.ca/publications/books/zoopolis"
+  - id: giunchi2012
+    kind: source
+    passage: "2012 review reported a lack of quantitative evidence for the population-control efficacy of urban dovecotes with egg replacement"
+    evidence:
+      citation_id: "giunchi2012"
+      locator: "section 4.2.2, pp. 226–227"
+      verified: true
+      verification_note: "Primary chapter text inspected. Its assessment is explicitly dated; no claim about the present state of efficacy evidence follows."
+      url: "https://www.researchgate.net/publication/281406191_Feral_Pigeons_Problems_Dynamics_and_Control_Methods"
+  - id: distributed-decommissioning
+    kind: definition
+    passage: "*Distributed decommissioning* names the withdrawal of working arrangements by different actors, on different schedules, without a common settlement for the animals left outside them."
+    rationale: "A proposed historical process, not a universal demographic law. Its application draws together cases whose population histories are not fully reconstructed."
+  - id: comparative-arrangements
+    kind: interpretation
+    passage: "Ending work, transferring custody and ending obligation are separate decisions."
+    rationale: "The historical cases distinguish decisions about work, custody and duties. They do not identify a two-variable causal law or demonstrate the welfare success of any arrangement."
+  - id: rival-ecology
+    kind: interpretation
+    passage: "Their survival depends on food, nesting sites and their own capacities, not simply on the loss of a job."
+    rationale: "Institutional and ecological explanations address different parts of the problem. The historical comparison does not estimate their relative causal contributions."
+  - id: feral-nonspace
+    kind: definition
+    passage: "a site that supports animal habitation while its managers treat that habitation as unauthorized."
+    rationale: "A term for conflicting uses and permissions. It neither derives a new metric of infrastructure nor implies that every exclusion is unjustified."
+  - id: loft-proposal
+    kind: normative
+    passage: "A managed loft is one possible way to make such a claim administratively visible."
+    rationale: "A proposal about where to exercise responsibility, not an established population-control or welfare effect. The next paragraphs specify empirical evaluation requirements."
+  - id: responsibility-bridge
+    kind: normative
+    passage: "The ethical premise taken up here is that lives shaped around an institution's purposes cannot become irrelevant to its decisions merely because those purposes change."
+    rationale: "An explicitly ethical premise, not a finding derived from population counts or a claim that historical use fixes every present obligation. The following sentences distinguish past involvement from present responsibility and competing interests."
+  - id: reuter-retirement
+    kind: source
+    passage: "It made no corresponding promise of retirement."
+    evidence:
+      citation_id: "reuter1850"
+      locator: "Complete contract transcription, clauses 1–10"
+      verified: true
+      verification_note: "The museum transcription contains supply, dispatch, secrecy, fees, lost-bird and term provisions, but no retirement promise. The next manuscript sentence explicitly warns that documentary silence does not prove abandonment."
+      url: "https://onlinesammlung.museumsstiftung.de/detail/collection/8b1cf3a8-5916-4fc7-87b4-de47ccde8ed6"
+  - id: membership
+    kind: definition
+    passage: "Membership, in this limited sense, means a standing claim to consideration in decisions about a shared place."
+    rationale: "A deliberately limited normative use of membership. It is not a claim that pigeons already possess legal citizenship, that denizenship equals citizenship, or that residence authorizes every use of every site."
+  - id: care-without-replacement-work
+    kind: normative
+    passage: "A continuing claim would matter precisely when no replacement task could be found."
+    rationale: "Distinguishes recognition from successful reassignment to another use. It proposes a ground for continuing consideration; it neither forecasts job displacement nor supplies empirical evidence about labour markets."
+  - id: usefulness-and-membership
+    kind: normative
+    passage: "Usefulness can end before membership does."
+    rationale: "The concluding principle follows the paper's limited definition and ethical premise. It is not a prediction, an assertion of current legal rights, or a direct equivalence between human and animal histories."
+runs: []

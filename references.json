@@ -1,0 +1,582 @@
+[
+  {
+    "id": "skinner1960",
+    "type": "article-journal",
+    "title": "Pigeons in a pelican",
+    "author": [
+      {
+        "family": "Skinner",
+        "given": "B. F."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1960
+        ]
+      ]
+    },
+    "container-title": "American Psychologist",
+    "volume": "15",
+    "issue": "1",
+    "page": "28–37",
+    "DOI": "10.1037/h0045345",
+    "URL": "https://www.appstate.edu/~steelekm/classes/psy3214/Documents/Skinner1960.pdf"
+  },
+  {
+    "id": "beazley1966",
+    "type": "article-journal",
+    "title": "The pigeon towers of Iṣfahān",
+    "author": [
+      {
+        "family": "Beazley",
+        "given": "E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1966
+        ]
+      ]
+    },
+    "container-title": "Iran",
+    "volume": "4",
+    "issue": "",
+    "page": "105–109",
+    "DOI": "10.2307/4299579"
+  },
+  {
+    "id": "reuter1850",
+    "type": "manuscript",
+    "title": "Vertrag zwischen Julius Reuter und Heinrich Geller über die Gestellung von Brieftauben zur Beförderung von Nachrichten zwischen Brüssel und Aachen",
+    "author": [
+      {
+        "family": "Reuter",
+        "given": "P. J."
+      },
+      {
+        "family": "Geller",
+        "given": "H."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1850,
+          4,
+          24
+        ]
+      ]
+    },
+    "archive": "Museumsstiftung Post und Telekommunikation",
+    "archive_location": "4.2.160",
+    "URL": "https://onlinesammlung.museumsstiftung.de/detail/collection/8b1cf3a8-5916-4fc7-87b4-de47ccde8ed6"
+  },
+  {
+    "id": "edgerton2007",
+    "type": "book",
+    "title": "The Shock of the Old: Technology and Global History since 1900",
+    "author": [
+      {
+        "family": "Edgerton",
+        "given": "D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press"
+  },
+  {
+    "id": "jerolmack2009",
+    "type": "article-journal",
+    "title": "Primary groups and cosmopolitan ties: the rooftop pigeon flyers of New York City",
+    "author": [
+      {
+        "family": "Jerolmack",
+        "given": "C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "container-title": "Ethnography",
+    "volume": "10",
+    "issue": "4",
+    "page": "435–457",
+    "DOI": "10.1177/1466138109346997"
+  },
+  {
+    "id": "barua2021",
+    "type": "article-journal",
+    "title": "Infrastructure and non-human life: a wider ontology",
+    "author": [
+      {
+        "family": "Barua",
+        "given": "M."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "Progress in Human Geography",
+    "volume": "45",
+    "issue": "6",
+    "page": "1467–1489",
+    "DOI": "10.1177/0309132521991220"
+  },
+  {
+    "id": "coulter2016",
+    "type": "book",
+    "title": "Animals, Work, and the Promise of Interspecies Solidarity",
+    "author": [
+      {
+        "family": "Coulter",
+        "given": "K."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "Palgrave Macmillan",
+    "DOI": "10.1057/9781137558800"
+  },
+  {
+    "id": "stringham2012",
+    "type": "article-journal",
+    "title": "Divergence, convergence, and the ancestry of feral populations in the domestic rock pigeon",
+    "author": [
+      {
+        "family": "Stringham",
+        "given": "S. A."
+      },
+      {
+        "family": "Mulroy",
+        "given": "E. E."
+      },
+      {
+        "family": "Xing",
+        "given": "J."
+      },
+      {
+        "family": "Record",
+        "given": "D."
+      },
+      {
+        "family": "Guernsey",
+        "given": "M. W."
+      },
+      {
+        "family": "Aldenhoven",
+        "given": "J. T."
+      },
+      {
+        "family": "Osborne",
+        "given": "E. J."
+      },
+      {
+        "family": "Shapiro",
+        "given": "M. D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "container-title": "Current Biology",
+    "volume": "22",
+    "issue": "4",
+    "page": "302–308",
+    "DOI": "10.1016/j.cub.2011.12.045"
+  },
+  {
+    "id": "nal-pigeons",
+    "type": "webpage",
+    "title": "The Human Relationship with Pigeons: Forgotten War Heroes",
+    "author": [
+      {
+        "literal": "National Agricultural Library"
+      }
+    ],
+    "publisher": "United States Department of Agriculture",
+    "URL": "https://www.nal.usda.gov/collections/stories/human-relationship-pigeons-forgotten-war-heroes",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "id": "mcshane2007",
+    "type": "book",
+    "title": "The Horse in the City: Living Machines in the Nineteenth Century",
+    "author": [
+      {
+        "family": "McShane",
+        "given": "C."
+      },
+      {
+        "family": "Tarr",
+        "given": "J. A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "Johns Hopkins University Press"
+  },
+  {
+    "id": "congress2000-dogs",
+    "type": "legislation",
+    "title": "An Act to amend title 10, United States Code, to facilitate the adoption of retired military working dogs",
+    "author": [
+      {
+        "literal": "United States Congress"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "number": "106-446",
+    "URL": "https://www.congress.gov/106/plaws/publ446/PLAW-106publ446.pdf",
+    "title-short": "Military working dog adoption act"
+  },
+  {
+    "id": "congress2000-chimps",
+    "type": "legislation",
+    "title": "Chimpanzee Health Improvement, Maintenance, and Protection Act",
+    "author": [
+      {
+        "literal": "United States Congress"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "number": "106-551",
+    "URL": "https://www.congress.gov/106/plaws/publ551/PLAW-106publ551.pdf",
+    "title-short": "CHIMP Act"
+  },
+  {
+    "id": "congress1971",
+    "type": "legislation",
+    "title": "Wild Free-Roaming Horses and Burros Act",
+    "author": [
+      {
+        "literal": "United States Congress"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1971
+        ]
+      ]
+    },
+    "number": "92-195",
+    "URL": "https://www.govinfo.gov/content/pkg/STATUTE-85/pdf/STATUTE-85-Pg649.pdf",
+    "title-short": "Wild Free-Roaming Horses and Burros Act"
+  },
+  {
+    "id": "williams1994",
+    "type": "chapter",
+    "title": "Pigeons (rock doves)",
+    "author": [
+      {
+        "family": "Williams",
+        "given": "D. E."
+      },
+      {
+        "family": "Corrigan",
+        "given": "R. M."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "container-title": "Prevention and Control of Wildlife Damage",
+    "editor": [
+      {
+        "family": "Hygnstrom",
+        "given": "S. E."
+      },
+      {
+        "family": "Timm",
+        "given": "R. M."
+      },
+      {
+        "family": "Larson",
+        "given": "G. E."
+      }
+    ],
+    "page": "E-87–E-96",
+    "publisher": "University of Nebraska Cooperative Extension",
+    "URL": "https://digitalcommons.unl.edu/icwdmhandbook/69/"
+  },
+  {
+    "id": "jerolmack2008",
+    "type": "article-journal",
+    "title": "How pigeons became rats: the cultural-spatial logic of problem animals",
+    "author": [
+      {
+        "family": "Jerolmack",
+        "given": "C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "container-title": "Social Problems",
+    "volume": "55",
+    "issue": "1",
+    "page": "72–94",
+    "DOI": "10.1525/sp.2008.55.1.72"
+  },
+  {
+    "id": "nyc-pigeons",
+    "type": "webpage",
+    "title": "Pigeon-Related Diseases",
+    "author": [
+      {
+        "literal": "New York City Department of Health and Mental Hygiene"
+      }
+    ],
+    "URL": "https://www.nyc.gov/site/doh/health/health-topics/pigeon.page",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "id": "pimentel2000",
+    "type": "article-journal",
+    "title": "Environmental and economic costs of nonindigenous species in the United States",
+    "author": [
+      {
+        "family": "Pimentel",
+        "given": "D."
+      },
+      {
+        "family": "Lach",
+        "given": "L."
+      },
+      {
+        "family": "Zuniga",
+        "given": "R."
+      },
+      {
+        "family": "Morrison",
+        "given": "D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "container-title": "BioScience",
+    "volume": "50",
+    "issue": "1",
+    "page": "53–65",
+    "URL": "https://academic.oup.com/bioscience/article-pdf/50/1/53/26692736/50-1-53.pdf"
+  },
+  {
+    "id": "senar2017",
+    "type": "article-journal",
+    "title": "Reducing the availability of food to control feral pigeons: changes in population size and composition",
+    "author": [
+      {
+        "family": "Senar",
+        "given": "J. C."
+      },
+      {
+        "family": "Montalvo",
+        "given": "T."
+      },
+      {
+        "family": "Pascual",
+        "given": "J."
+      },
+      {
+        "family": "Peracho",
+        "given": "V."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": "Pest Management Science",
+    "volume": "73",
+    "issue": "2",
+    "page": "313–317",
+    "DOI": "10.1002/ps.4272"
+  },
+  {
+    "id": "star1999",
+    "type": "article-journal",
+    "title": "The ethnography of infrastructure",
+    "author": [
+      {
+        "family": "Star",
+        "given": "S. L."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "container-title": "American Behavioral Scientist",
+    "volume": "43",
+    "issue": "3",
+    "page": "377–391",
+    "DOI": "10.1177/00027649921955326"
+  },
+  {
+    "id": "philo2000",
+    "type": "book",
+    "title": "Animal Spaces, Beastly Places: New Geographies of Human-Animal Relations",
+    "editor": [
+      {
+        "family": "Philo",
+        "given": "C."
+      },
+      {
+        "family": "Wilbert",
+        "given": "C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "Routledge"
+  },
+  {
+    "id": "donaldson2011",
+    "type": "book",
+    "title": "Zoopolis: A Political Theory of Animal Rights",
+    "author": [
+      {
+        "family": "Donaldson",
+        "given": "S."
+      },
+      {
+        "family": "Kymlicka",
+        "given": "W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press"
+  },
+  {
+    "id": "giunchi2012",
+    "type": "chapter",
+    "title": "Feral pigeons: problems, dynamics and control methods",
+    "author": [
+      {
+        "family": "Giunchi",
+        "given": "D."
+      },
+      {
+        "family": "Albores-Barajas",
+        "given": "Y. V."
+      },
+      {
+        "family": "Baldaccini",
+        "given": "N. E."
+      },
+      {
+        "family": "Vanni",
+        "given": "L."
+      },
+      {
+        "family": "Soldatini",
+        "given": "C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "container-title": "Integrated Pest Management and Pest Control: Current and Future Tactics",
+    "editor": [
+      {
+        "family": "Soloneski",
+        "given": "S."
+      }
+    ],
+    "page": "215–240",
+    "publisher": "InTech",
+    "DOI": "10.5772/31536"
+  }
+]

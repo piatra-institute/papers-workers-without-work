@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "pdf_sha256": "5be176de6e5e098d6f5afa5658fc3edcdbd946209a5f0b42538c5b6f3b997ee6",
+  "page_count": 8,
+  "pages_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "all_pages_inspected": true,
+  "render_command": "pdftoppm -scale-to 1300 -png paper/PAPER.pdf <temporary-directory>/page",
+  "notes": "All eight final page images visually inspected. Title ends with a colon on its own line, subtitle below, then PIATRA . INSTITUTE and July 2026. Body and closing paragraph readable, no clipping or missing glyphs; headings have following text. Single-spaced bibliography at unchanged font size removes the isolated ninth reference page. Closing sentence remains plain prose."
+}

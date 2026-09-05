@@ -1,19 +1,44 @@
 # Workers Without Work
 
-Pigeons and the Infrastructural Afterlife of Domestication. The paper asks why the withdrawal of every institutional function from a domestic animal produced, in the twentieth-century city, a pest rather than an absence. It names the process *distributed decommissioning*: the piecemeal withdrawal of functions, provisioning and responsibility from a living human-made population by unrelated institutions, none of which ever held the whole population, so that no actor ever had to declare the birds feral and none inherited them. Its central result is that the terminal state of a decommissioned working-animal population is fixed by two institutional variables rather than by the animal's traits, namely whether the population stays enumerable and whether any institution keeps a standing obligation to it. All four combinations occur in the record and three are written into statute: military working dogs are adopted at the end of their useful working life, research chimpanzees enter a sanctuary that may not discharge them, and unbranded and unclaimed horses on the public range were declared living symbols and protected from capture and death. The Army's own pigeons, being listed, ended cleanly in 1957; the urban horse, owned to the last day and worth money as a carcass, left no feral population; the street pigeon was reachable by no decision and worth nothing dead. The paper then shows the reversal of the animal's capacities documented inside the wildlife-damage literature, which explains the impracticality of release by naming homing, reads pest status as a relation among recognized utility, ownership and spatial authorization that dissolves when any one term is restored, traces the canonical billion-dollar damage figure back to an assumed cost per bird multiplied by an assumed bird per hectare, and closes on *feral nonspace*, anthropogenic space that is materially habitable and institutionally disavowed as habitat, held that way by a continuous expenditure on spikes patented in 1939.
+Pigeons and the Infrastructural Afterlife of Domestication.
 
-## Sources
+What remains owed when a function disappears but the lives organized around it
+continue? Pigeons provide the historical case. Their work brings together lofts,
+keepers, contracts and institutions; the end of that work leaves questions that
+a sale, a closure date or a new technology cannot answer alone.
 
-No simulation. Every factual claim traces to a source frozen in `sources.md`, with the tiering and the exact locators in `research.md`; sources that could not be verified were dropped rather than softened, and the casualties are listed at the foot of `sources.md`.
+The paper distinguishes finding another use for an animal from recognizing a
+claim that no longer depends on usefulness. Comparisons with horses, military
+dogs and research chimpanzees show different settlements of custody and
+responsibility. They do not establish a universal law of animal populations.
+
+## Read and check
+
+- [Manuscript](paper/PAPER.md) and [local PDF](paper/PAPER.pdf).
+- [Editorial decisions](editorial.md) and [current brief](brief.md).
+- [Bound claims](claims.yaml) and [structured bibliography](references.json).
+- [Source checks](source-checks.md). Earlier research remains in research.md and
+  sources.md as dated provenance, not as a current verification certificate.
+
+No simulation is used. Numbers come from identified historical or scientific
+sources. Definitions, interpretations and ethical premises are recorded
+separately. The concluding use of membership is normative, not a claim of legal
+citizenship.
 
 ## Build
 
-```bash
-uv run build.py          # -> paper/PAPER.pdf  (vendored canonical recipe)
+From this repository, with Pandoc and XeLaTeX installed:
+
+```sh
+python3 build.py
 ```
 
-Requires `pandoc` and `xelatex` on PATH. From the workspace you can also run
-`papers build workers-without-work`.
+From the collection root:
 
-Part of [piatra-papers](https://github.com/piatra-institute). See the workspace
-docs for the research and writing pipelines.
+```sh
+python3 tooling/papers.py check workers-without-work --stage local
+```
+
+The title page separates title and subtitle, followed by PIATRA . INSTITUTE and
+the date. The build log and manifest are generated locally and ignored by Git.
+A local build does not publish or update the website.
