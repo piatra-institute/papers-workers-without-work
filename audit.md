@@ -3,6 +3,16 @@
 Dated log of editorial passes and verification runs. Newest first.
 See the workspace docs (run `papers docs`): writing-pipeline.md §7 and refresh-pipeline.md.
 
+## 2026-09-23 — prose revision
+
+Prose revision against the house standard. No source, citation or factual claim changed.
+  - Headings: Abstract; Introduction; Working arrangements and distributed decommissioning; Disposal, retirement and the end of custody; Pigeons as an urban control problem; Residence in infrastructure; Obligation after usefulness.
+  - Tic counts before -> after: 'this paper' 1 -> 0; inline ', not X' 1 -> 0; 'merely/simply' 2 -> 0; 'exactly/precisely' 1 -> 0. Manuscript unwrapped from hard-wrapped lines to one line per paragraph. Abstract 178 -> 181 words.
+  - Author decisions from editorial.md retained: title and subtitle; closing sentence 'Usefulness can end before membership does.'; no explicit AI-era analogy.
+  - Numbers and citations: every numeral and every citation key preserved (diff against the pre-revision manuscript shows none lost or added). No numerical corrections were needed.
+  - Grid audit: not applicable (no simulation).
+  - Claim ledger: all 32 claims re-bound to the rewritten sentences (overrides for skinner1960, pimentel2000, senar2017 and reuter-retirement, whose supporting sentence carries the citation in the adjacent sentence or needed a unique anchor); all pass. README regenerated.
+
 ## 2026-07-29 — first draft, research, and publish
 
 Scope: the whole paper, from the seeded chat to a published PDF and a web entry.

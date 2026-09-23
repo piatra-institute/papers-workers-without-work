@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "manuscript_sha256": "1f7169ce98abb400e5ce45143c29ba1756e6192bf35ef22530e35812c182e8df",
+  "manuscript_sha256": "779807f11777f28b86cbc7e773d7642d652308c3873ddb0bb855a4225cc928c1",
   "full_read": true,
   "argument_review": true,
   "structure_review": true,
   "voice_review": true,
   "source_review": true,
   "final_read": true,
-  "notes": "Full original and revised manuscripts read. Revised again after reading all of chats/chat.md and the author's membership clarification. Thirty-two bound claims, twenty-two cited works; narrow source-inspection scope disclosed in source-checks.md. Final manuscript reread and current eight-page PDF inspected. The AI-era resonance remains implicit; membership is explicitly normative, not a claim of existing citizenship.",
+  "notes": "Prose revision against the house standard for plain, declarative writing, respecting the author's recorded decisions in editorial.md (title and subtitle retained; 'Usefulness can end before membership does' kept as the last sentence; the contemporary implication left unspoken). The manuscript was reread in full, unwrapped to one line per paragraph, and rewritten paragraph by paragraph with every source claim, citation and figure of fact preserved. Section titles made descriptive ('After the guidance program' became 'Introduction'; 'What a function holds together' became 'Working arrangements and distributed decommissioning'; 'When custody ends' became 'Disposal, retirement and the end of custody'; 'Becoming a problem' became 'Pigeons as an urban control problem'; 'Remaining in place' became 'Residence in infrastructure'; 'After usefulness' became 'Obligation after usefulness'). Removed self-reference ('This paper follows'), the rhetorical abstract opener, an inline ', not simply' contrast, 'merely' and 'precisely', epigrammatic lines ('A dropping had a destination and a buyer', 'A keeper's reliable return has become a building manager's failed removal') and the sweeping 'a problem larger than the history of domestication'. All 32 claims re-bound and passing.",
   "remaining": "Local revision complete; not published."
 }

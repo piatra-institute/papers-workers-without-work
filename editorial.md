@@ -28,20 +28,14 @@ narrative. The explicit analogy with anti-homeless spikes was removed so the
 wider implication can remain latent. Source-check history for these passages is
 retained separately; their references are absent from the current bibliography.
 
-## Reverse outline and structure
+## Reverse outline
 
-Original: project cancellation; five pigeon uses; distributed withdrawal;
-deterministic four-cell typology; inversion of capacities; pest classification;
-nonspace; municipal obligations.
-
-First rewrite corrected the causal overreach but still culminated in municipal
-pigeon management. The author identified this as missing the intended centre.
-
-Current: a program ends before competence; a function organizes a life; custody
-can end under different settlements of obligation; a capacity becomes a nuisance;
-a population remains spatially present; a claim survives without another job.
-The return to Skinner near the end distinguishes continued usefulness from care
-when no further task is available.
+1. *Introduction*
+2. *Working arrangements and distributed decommissioning*
+3. *Disposal, retirement and the end of custody*
+4. *Pigeons as an urban control problem*
+5. *Residence in infrastructure*
+6. *Obligation after usefulness*
 
 ## Strongest rivals and inferential decisions
 
